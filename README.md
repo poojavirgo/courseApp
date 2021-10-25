@@ -3,7 +3,7 @@
 Use this application to keep track of courses and classes offered for internal developement.
 This App is made on ReactJs , HTML,CSS , JS . For CSS styling in our React project I've used Styled component in Button .
 
-<---APPLICATION UI---->
+<!--APPLICATION UI-->
 
 <img width="1280" alt="Screenshot 2021-10-25 at 16 45 32" src="https://user-images.githubusercontent.com/21308982/138689837-9660a2c0-ca85-44db-99a6-9f9a9bb7b1f4.png">
 
